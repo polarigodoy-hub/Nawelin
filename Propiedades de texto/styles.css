@@ -1,0 +1,14 @@
+p{
+    color: red;
+    font-family:sans-serif;
+    font-weight: bolder;
+    font-style:italic;
+    text-align:start;
+    text-justify: auto;
+    text-decoration:overline;
+    letter-spacing: 2px;
+}
+span{
+    text-decoration: line-through;
+    color: blue;
+}

@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+.card{
+    background-color: orange;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    background-color: grey;
+}
+.ingredientes-burger1{
+    background-color: green;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.ingredientes-burger2{
+    background-color: violet;
+    width: 200px;
+    height: 40px;
+    padding: 30px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.ingredientes-burger3{
+    background-color: white;
+    text-align: center;
+    margin: left;
+    width: 200px;
+    height: 40px;
+    padding: auto;
+    margin: 20px;
+}
+.ingredientes-burger4{
+    background-color: red;
+    text-align: center;
+    margin: left;
+    height: 40px;
+    width: 200px;
+    padding: auto;
+    margin: 20px;
+}
