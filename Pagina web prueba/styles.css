@@ -5,13 +5,14 @@ background-color:#d7e3dd;
     background-color:#26332D;
     color: white;
     width: 500px;
-    height: 100px;
+    height: 50px;
+    padding: 30px;
     margin: auto;
-    font-family: ;
+    text-align: center;
 }
 .descripcion{
     background-color: #26332D;
-    width: 700px;
+    width: 500px;
     margin: auto;
     padding: 30px;
     border-radius: 10px;
